@@ -7,6 +7,7 @@ import java.util.Locale;
 
 public class DriverConfig
 {
+    //Dalia did a change
     //static i want to refer to it from outside
     private static WebDriver driver;
 
